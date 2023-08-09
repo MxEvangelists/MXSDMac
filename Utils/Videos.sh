@@ -5,4 +5,5 @@ if [[ -n $pid ]]; then
 else
     echo "Does not exist"
 fi
-/Users/Shared/MendixStream/VLC/VLC.app/Contents/MacOS/VLC --config /Users/Shared/MendixStream/VLC/vlcrc /Users/Shared/MendixStream/Videos/$1
+cd /Users/Shared/MendixStream/MXSDContent/Videos
+/Users/Shared/MendixStream/MXSDMac/VLC/VLC.app/Contents/MacOS/VLC --config /Users/Shared/MendixStream/MXSDMac/VLC/vlcrc "$1"

@@ -229,7 +229,7 @@ macosx-appleremote=0
 #macosx-mediakeys=1
 
 # Video device (integer)
-macosx-vdev=459079841
+macosx-vdev=69734662
 
 # Opaqueness (float)
 #macosx-opaqueness=1.000000

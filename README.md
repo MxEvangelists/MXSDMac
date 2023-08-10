@@ -32,3 +32,14 @@ git pull
 ## Installation
 
 No further action should be necessary.
+
+## Configuration
+
+If you have multiple screens connected to your Mac you may need to configure the presentations to appear on the correct one. To do this you need to follow this process:
+
+1. Use the Stream Deck to run one of the Videos from the Content.
+1. If the video appears on the correct screen then there is nothing further to do.
+1. Otherwise, open the VLC menu on the Mac and select `Video/Fullscreen Video Device`. *If you can't see the VLC Menu on any screen then move the mouse right to the top of the screen showing the video and the VLC menu should roll down from the top.*
+1. Choose one of the screen options on the list that appears. Which one may be evident from the dimensions shown, otherwise just choose one to try.
+1. Nothing will change immediately. Close VLC (use the Stream Deck Close button or the VLC Menu Quit option.
+1. Go back to stage 1.

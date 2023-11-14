@@ -25,7 +25,7 @@ git clone https://github.com/Adrian-Preston/MXSDMac.git
 
 You can pull the latest version of the utilities using:
 ```
-cd /Users/Shared/MendixStream
+cd /Users/Shared/MendixStream/MXSDMac
 git pull
 ```
 

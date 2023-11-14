@@ -229,7 +229,7 @@ macosx-appleremote=0
 #macosx-mediakeys=1
 
 # Video device (integer)
-macosx-vdev=69734662
+macosx-vdev=724072664
 
 # Opaqueness (float)
 #macosx-opaqueness=1.000000
@@ -1835,7 +1835,7 @@ log-verbose=3
 [auhal] # HAL AudioUnit output
 
 # Audio volume (integer)
-#auhal-volume=256
+auhal-volume=269
 
 # Last audio device (string)
 auhal-audio-device=0
@@ -3942,7 +3942,7 @@ vod-server=any
 #loop=0
 
 # Repeat current item (boolean)
-#repeat=0
+repeat=1
 
 # Play and exit (boolean)
 #play-and-exit=0
@@ -3951,7 +3951,7 @@ vod-server=any
 #play-and-stop=0
 
 # Play and pause (boolean)
-play-and-pause=1
+#play-and-pause=0
 
 # Start paused (boolean)
 #start-paused=0
@@ -4224,7 +4224,7 @@ stats=0
 #global-key-quit=
 
 # Quit (string)
-#key-quit=Command+q
+key-quit=q
 
 # Volume up (string)
 #global-key-vol-up=

@@ -1,7 +1,7 @@
 # MxSDMac
 *Mac tools for use with the Mendix Stream Deck content*
 
-This project contains utilities for presentations using Elgato Stream Deck. This is used for using Stream Deck on a Mac. In addition to this repository you will also need Content repository ([https://github.com/Adrian-Preston/MXSDContent](https://github.com/Adrian-Preston/MXSDContent)). If you are using a Windows PC you will need the Windows support repository ([https://github.com/Adrian-Preston/MXSDWindows](https://github.com/Adrian-Preston/MXSDWindows)) instead of this one.
+This project contains utilities for presentations using Elgato Stream Deck. This is used for using Stream Deck on a Mac. In addition to this repository you will also need Content repository ([https://github.com/MxEvangelists/MXSDContent](https://github.com/MxEvangelists/MXSDContent)). If you are using a Windows PC you will need the Windows support repository ([https://github.com/MxEvangelists/MXSDWindows](https://github.com/MxEvangelists/MXSDWindows)) instead of this one.
 
 ## Download
 
@@ -18,7 +18,7 @@ sudo chmod 777 Shared
 Download the latest utilities as follows:
 ```
 cd /Users/Shared/MendixStream
-git clone https://github.com/Adrian-Preston/MXSDMac.git
+git clone https://github.com/MxEvangelists/MXSDMac.git
 ```
 
 ### Update
